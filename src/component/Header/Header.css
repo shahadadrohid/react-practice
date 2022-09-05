@@ -1,0 +1,21 @@
+.header {
+    background-color: black;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header a {
+    text-decoration: none;
+    color: black;
+    margin-right: 40px;
+    background-color: whitesmoke;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.header a:hover {
+    background-color: blueviolet;
+    color: white;
+}
